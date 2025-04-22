@@ -19,14 +19,6 @@ A simple and clean **Weather Application** built with **HTML**, **CSS**, and **J
 
 ---
 
-## ✨ Screenshots
-
-| Desktop View | Mobile View |
-| :---: | :---: |
-| ![Desktop Screenshot](link-to-desktop-screenshot) | ![Mobile Screenshot](link-to-mobile-screenshot) |
-
----
-
 ## 💡 How to Use
 
 1. Clone this repository:
