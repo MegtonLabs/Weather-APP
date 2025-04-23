@@ -49,7 +49,7 @@ No installations required! Just clone the project and run the `index.html` file 
 
 Made with ❤️ by Juriher Mallick
 
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/MegtonLabs)
 
 ---
 
