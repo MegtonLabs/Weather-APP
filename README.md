@@ -23,7 +23,7 @@ A simple and clean **Weather Application** built with **HTML**, **CSS**, and **J
 
 1. Clone this repository:
 ```bash
-https://github.com/your-username/WeatherAPP.git
+https://github.com/MegtonLabs/WeatherAPP.git
 ```
 
 2. Open `index.html` in your web browser.
