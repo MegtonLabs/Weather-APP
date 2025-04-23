@@ -47,7 +47,7 @@ No installations required! Just clone the project and run the `index.html` file 
 
 ## 👤 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by Juriher Mallick
 
 [GitHub Profile](https://github.com/your-username)
 
