@@ -47,7 +47,7 @@ No installations required! Just clone the project and run the `index.html` file 
 
 ## 👤 Author
 
-Made with ❤️ by Juriher Mallick
+Made by Juriher Mallick
 
 [GitHub Profile](https://github.com/MegtonLabs)
 
